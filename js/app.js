@@ -16,7 +16,7 @@ const gameOption4 = document.getElementById('option4')
 
 
 /*----------------------------- Event Listeners -----------------------------*/
-// gameOption1.addEventListener('click', 'add link to next html')
+gameOption1.addEventListener('click', '')
 gameOption2.addEventListener('click', '')
 gameOption3.addEventListener('click', '')
 gameOption4.addEventListener('click', '')
@@ -24,3 +24,6 @@ gameOption4.addEventListener('click', '')
 
 /*-------------------------------- Functions --------------------------------*/
 // Ability to open game options
+function openPage (){
+
+}
