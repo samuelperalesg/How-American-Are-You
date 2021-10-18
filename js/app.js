@@ -7,7 +7,7 @@
 
 
 /*------------------------ Cached Element References ------------------------*/
-
+// Cached elements for User's Game Options
 
 
 /*----------------------------- Event Listeners -----------------------------*/
@@ -15,3 +15,4 @@
 
 
 /*-------------------------------- Functions --------------------------------*/
+// Ability to open game options
