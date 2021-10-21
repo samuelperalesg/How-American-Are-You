@@ -98,29 +98,25 @@ body {
   font-size: 2rem;
 }
 
-.choice1container {
+.choicecontainer {
   font-size: 3rem;
   border: solid;
   padding: .5rem;
   margin: .5rem 1rem 2rem .5rem;
+  background-color: pink;
 }
-.choice2container {
-  font-size: 3rem;
-  border: solid;
-  padding: .5rem;
-  margin: .5rem 1rem 2rem .5rem;
+.choicecontainer:hover {
+  background-color: blue;
+  cursor: pointer;
+  box-shadow: 0 .4rem 1.4rem 0 blue;
 }
-.choice3container {
-  font-size: 3rem;
-  border: solid;
-  padding: .5rem;
-  margin: .5rem 1rem 2rem .5rem;
+
+.choicecorrect {
+  background-color: green;
 }
-.choice4container {
-  font-size: 3rem;
-  border: solid;
-  padding: .5rem;
-  margin: .5rem 1rem 2rem .5rem;
+
+.choiceincorrect {
+  background-color: red;
 }
 
 .exit {
