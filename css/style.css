@@ -2,21 +2,76 @@ html {
   box-sizing: border-box
 }
 
-/* The Universal Selector */
-*, /* All elements*/
-*::before, /* All ::before pseudo-elements */
-*::after { /* All ::after pseudo-elements */
-  /* height & width will now include border & padding by default but can be over-ridden as needed */
+*,
+*::before,
+*::after { 
   box-sizing: inherit;
 }
 
-/* resets font size to be 62.5% of the user preference - in most browser configurations this will be 10px */
 :root {
     font-size: 62.5%;
 }
 
 body {
-  background-color: gray;
+  background-image: radial-gradient(circle, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
   margin: 0;
   font-family: 'Raleway', sans-serif;
+}
+
+.welcome {
+  font-family: 'Raleway';
+  font-weight: bold;
+  font-size: 4rem;
+  margin: 3rem 2rem 3rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: red;
+}
+
+#gametitle {
+  font-size: 5rem;
+  color: blue;
+}
+
+#selectionMessage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 50rem 50rem;
+  grid-template-rows: 30rem 30rem;
+  margin-left: 18rem;
+}
+
+.btn {
+  font-size: 8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #FFC75F;
+  margin: 2rem 2rem 2rem 2rem;
+  border-radius: 8rem;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color: #845EC2;
+  box-shadow: 0 .4rem 1.4rem 0 #845EC2;
+  /* transition: transform 150ms;
+  transform: scale(1.03); */
+}
+
+.gameheading {
+  font-family: 'Raleway';
+  font-size: 4rem;
+  margin: 3rem 2rem 3rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid;
+  border-color: paleturquoise;
 }

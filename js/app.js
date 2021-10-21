@@ -16,7 +16,7 @@ const gameOption4 = document.getElementById('option4')
 
 
 /*----------------------------- Event Listeners -----------------------------*/
-gameOption1.addEventListener('click', openPage)
+
 // gameOption2.addEventListener('click', '')
 // gameOption3.addEventListener('click', '')
 // gameOption4.addEventListener('click', '')
