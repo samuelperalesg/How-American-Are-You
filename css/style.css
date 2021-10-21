@@ -65,13 +65,87 @@ body {
   transform: scale(1.03); */
 }
 
-.gameheading {
+.game-heading {
   font-family: 'Raleway';
   font-size: 4rem;
-  margin: 3rem 2rem 3rem 2rem;
+  margin: 3rem 2rem 0rem 2rem;
   display: flex;
   align-items: center;
   justify-content: center;
   border: solid;
   border-color: paleturquoise;
+}
+
+.question-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3rem;
+}
+
+.correct-answer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  /* visibility: hidden; */
+}
+
+.score {
+  display: flex;
+  justify-content:flex-end;
+  margin-right: 10rem;
+  font-size: 2rem;
+}
+
+.choice1container {
+  font-size: 3rem;
+  border: solid;
+  padding: .5rem;
+  margin: .5rem 1rem 2rem .5rem;
+}
+.choice2container {
+  font-size: 3rem;
+  border: solid;
+  padding: .5rem;
+  margin: .5rem 1rem 2rem .5rem;
+}
+.choice3container {
+  font-size: 3rem;
+  border: solid;
+  padding: .5rem;
+  margin: .5rem 1rem 2rem .5rem;
+}
+.choice4container {
+  font-size: 3rem;
+  border: solid;
+  padding: .5rem;
+  margin: .5rem 1rem 2rem .5rem;
+}
+
+.exit {
+  font-size: 3rem;
+  width: 11rem;
+  text-align: center;
+  margin: 2rem;
+  color: black;
+  background-color: red;
+  border-radius: 2rem;
+}
+
+#exit-btn {
+  text-decoration: none;
+}
+
+#next-btn {
+  font-size: 3rem;
+  background-color: palevioletred;
+  width: 20rem;
+  text-align: center;
+}
+
+.buttons {
+  display: grid;
+  /* grid-template-columns:x; */
+  grid-template-columns: 100rem 100rem;
 }
