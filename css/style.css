@@ -116,14 +116,6 @@ body {
   text-align: center;
 }
 
-/* #progressBar {
-  width: 20rem;
-  height: 3rem;
-  border: .2rem solid green;
-  margin-top: 2rem;
-  border-radius: 50px;
-  overflow: hidden;
-} */
 
 #progressBarFull {
   height: 100%;
