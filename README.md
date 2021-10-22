@@ -15,15 +15,11 @@
 3. Click "Next"
 
 ---
-## Game Planning Views:
+## Game View:
 
-### Wireframe:
-!(https://ibb.co/9NcwMj0)
+![game planning 1](https://i.ibb.co/0YNM56d/Screen-Shot-2021-10-22-at-7-57-36-AM.png)
 
-
-### Finished Product:
-!(https://ibb.co/8P35kfS)
-
+![game planning 2](https://i.ibb.co/f2q8c7W/Screen-Shot-2021-10-22-at-7-57-13-AM.png)
 
 ---
 ## Technology Implemented:
@@ -31,7 +27,6 @@
 - CSS
 - JavaScript
 - Git
-- Bootstrap
 
 ## Credits:
 [USCIS](https://www.uscis.gov/sites/default/files/document/questions-and-answers/100q.pdf)
