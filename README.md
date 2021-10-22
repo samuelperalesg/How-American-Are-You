@@ -17,8 +17,12 @@
 ---
 ## Game View:
 
-![game planning 1](https://i.ibb.co/0YNM56d/Screen-Shot-2021-10-22-at-7-57-36-AM.png)
+## Wireframe:
+![game wireframe](https://i.ibb.co/xMSgvkr/Screen-Shot-2021-10-22-at-9-56-54-AM.png)
 
+## Main View:
+![game planning 1](https://i.ibb.co/0YNM56d/Screen-Shot-2021-10-22-at-7-57-36-AM.png)
+## Game View:
 ![game planning 2](https://i.ibb.co/f2q8c7W/Screen-Shot-2021-10-22-at-7-57-13-AM.png)
 
 ---
