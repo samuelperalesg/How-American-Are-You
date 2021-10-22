@@ -17,16 +17,12 @@
 ---
 ## Game Planning Views:
 
-### Initial Drawing:
-
-
-
 ### Wireframe:
-
+!(https://ibb.co/9NcwMj0)
 
 
 ### Finished Product:
-
+!(https://ibb.co/8P35kfS)
 
 
 ---
@@ -36,6 +32,9 @@
 - JavaScript
 - Git
 - Bootstrap
+
+## Credits:
+[USCIS](https://www.uscis.gov/sites/default/files/document/questions-and-answers/100q.pdf)
 
 ## Pseudocode:
 - Set Up Main Screen (if I can figure out how to link multiple screens in one website)
